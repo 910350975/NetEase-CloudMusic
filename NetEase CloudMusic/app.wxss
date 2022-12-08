@@ -1,0 +1,4 @@
+/**app.wxss**/
+/* 引入iconfont库 */
+@import '/static/iconfont/iconfont.wxss'
+
